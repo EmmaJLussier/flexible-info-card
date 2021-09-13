@@ -11,3 +11,12 @@ html {
 body {
  margin: 0;
 }
+
+section {
+  display: flex;
+}
+
+img {
+  display: flex;
+  justify-content: flex-start;
+}
