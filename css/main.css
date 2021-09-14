@@ -17,3 +17,13 @@ section {
   justify-content: center;
   align-items: stretch;
 }
+
+img {
+  display: block;
+  width: 100%;
+}
+
+a {
+  color: #ccc;
+  border-color: #444;
+}
