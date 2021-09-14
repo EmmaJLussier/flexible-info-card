@@ -1,9 +1,17 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: "Open Sans",sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 1.5rem;
+}
+
+section {
+  display: flex;
 }
