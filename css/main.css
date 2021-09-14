@@ -7,17 +7,3 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-
-body {
- margin: 0;
-}
-
-section hgroup{
-  display: flex;
-  flex-direction: row;
-}
-
-img {
-  display: flex;
-  justify-content: flex-start;
-}
