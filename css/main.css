@@ -12,16 +12,14 @@ body {
   margin: 0;
 }
 
-section {
+ul {
   display: flex;
-  display: inline-flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: stretch;
 }
 
 img {
-  display: block;
   width: 100%;
 }
 
