@@ -10,6 +10,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #ccc;
 }
 
 h2 {
@@ -25,6 +26,8 @@ li {
 }
 
 img {
+  display: flex;
+  flex-direction: column;
   width: 5rem;
 }
 
