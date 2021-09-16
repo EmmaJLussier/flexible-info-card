@@ -31,10 +31,10 @@ img {
 hgroup {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  width: 16rem;
+  padding: 2rem;
 }
 
 p {
@@ -47,4 +47,5 @@ a {
   align-items: flex-end;
   color: #ccc;
   background-color: #444;
+  padding: .5rem 1rem .6rem;
 }
