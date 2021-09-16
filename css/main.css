@@ -34,14 +34,14 @@ img {
 hgroup {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
+  align-content: center;
+  line-height: 0;
   padding: 2rem;
 }
 
 p {
   display: flex;
+  padding: 2rem;
 }
 
 a {
